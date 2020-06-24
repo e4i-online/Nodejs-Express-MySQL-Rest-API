@@ -10,6 +10,8 @@ This Application is a Rest Apis for creating, retrieving, updating & deleting Cu
 git clone https://github.com/iMohammedHashem/Nodejs-Express-MySQL-Rest-API.git
 ```
 
+#### Add table with `Customers.sql` file to your database
+
 #### Insall dependencies
 
 ```
