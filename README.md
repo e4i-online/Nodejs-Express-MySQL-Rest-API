@@ -2,6 +2,30 @@
 
 This Application is a Rest Apis for creating, retrieving, updating & deleting Customers.
 
+# Getting Started
+
+#### clone the project
+
+```
+git clone https://github.com/iMohammedHashem/Nodejs-Express-MySQL-Rest-API.git
+```
+
+#### Insall dependencies
+
+```
+ npm install
+```
+
+#### Run the server
+
+```
+nodemon
+#OR
+node server.js
+```
+
+#### To Testing Application Open `http.rest` file
+
 # Route & Action
 
 | Methods | Route Path   | Actions                   |
