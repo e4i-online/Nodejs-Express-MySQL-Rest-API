@@ -18,6 +18,8 @@ speed-measure-plugin*.json
 /.idea
 .project
 .classpath
+.gitignore
+.package-lock.json
 .c9/
 *.launch
 .settings/
