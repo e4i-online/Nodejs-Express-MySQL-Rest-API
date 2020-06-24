@@ -15,15 +15,24 @@ This Application is a Rest Apis for creating, retrieving, updating & deleting Cu
 
 # TOOLS
 
-- REST Client (DOWNLOAD)[https://github.com/Huachao/vscode-restclient]
+- ### [REST Client](https://github.com/Huachao/vscode-restclient])
+
   REST Client allows you to send HTTP request and view the response in Visual Studio Code directly.
-- Nodemon [DOWNLOAD](https://www.npmjs.com/package/nodemon)
+
+- ### [Nodemon](https://www.npmjs.com/package/nodemon)
+
   nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
 
-# PACKAGES
+# DEPENDENCIES
 
-(ADD SOME DESTELSS)
+- ### ExpressJs [download from npm](https://www.npmjs.com/package/express)
 
-- express
-- mysql
-- body-praser
+  Fast, unopinionated, minimalist web framework for node.
+
+- ### MySql [download from npm](https://www.npmjs.com/package/mysql)
+
+  This is a node.js driver for mysql. It is written in JavaScript, does not require compiling, and is 100% MIT licensed.
+
+- ### BodyParser [download from npm](https://www.npmjs.com/package/body-parser)
+
+  Node.js body parsing middleware.
