@@ -20,7 +20,9 @@ git clone https://github.com/iMohammedHashem/Nodejs-Express-MySQL-Rest-API.git
 
 ```
 nodemon
+
 #OR
+
 node server.js
 ```
 
